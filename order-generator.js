@@ -20,7 +20,7 @@ const Menu = {
 	},
 	"The Bruce": {
 		max: 5,
-		price: 1750,
+		price: 1751,
 		items: ["Rusty Sword", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte",],
 	},
 	"Queens Choice": {
