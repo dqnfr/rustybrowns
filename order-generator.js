@@ -69,7 +69,7 @@ const Menu = {
 		items: ["Rusty Sword"],
 	},
 	"Tommy Tea": {
-		price: 125,
+		price: 75,
 		items: ["Tommy Tea"],
 	},
 	"Chai Latte": {
