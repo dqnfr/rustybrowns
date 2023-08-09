@@ -77,8 +77,12 @@ const Menu = {
 		items: ["Chai Latte"],
 	},
 	"Shmilk": {
-		price: 250,
+		price: 200,
 		items: ["Shmilk"],
+	},
+	"Gingerale": {
+		price: 50,
+		items: ["Gingerale"],
 	},
 	// Boxes
 	"Boxes:": {
@@ -128,7 +132,7 @@ const Menu = {
 };
 
 const INDIVIDUAL_ITEMS = [
-	"Cherry Pop", "Rusty Ring", "Banana Deep", "Creampie", "Swifty Sprinkles", "Box Rings", "Manure Mix", "Brown Mess", "Chocolate Whammy", "Follemos", "Rusty Sword", "Mixed Rings", "Tommy Tea", "Chai Latte", "Shmilk"
+	"Cherry Pop", "Rusty Ring", "Banana Deep", "Creampie", "Swifty Sprinkles", "Box Rings", "Manure Mix", "Brown Mess", "Chocolate Whammy", "Follemos", "Rusty Sword", "Mixed Rings", "Tommy Tea", "Chai Latte", "Shmilk", "Gingerale"
 ];
 
 const buttons = {
