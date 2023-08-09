@@ -72,17 +72,13 @@ const Menu = {
 		price: 75,
 		items: ["Tommy Tea"],
 	},
-	"Chai Latte": {
-		price: 150,
-		items: ["Chai Latte"],
+	"Gingerale": {
+		price: 50,
+		items: ["Gingerale"],
 	},
 	"Shmilk": {
 		price: 200,
 		items: ["Shmilk"],
-	},
-	"Gingerale": {
-		price: 50,
-		items: ["Gingerale"],
 	},
 	// Boxes
 	"Boxes:": {
