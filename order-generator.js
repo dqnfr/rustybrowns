@@ -101,20 +101,12 @@ const Menu = {
 		header: true,
 	},
 	"1 Latte": {
+		price: 125,
+		items: ["Chai Latte"],
+	},
+	"15 Latte": {
 		price: 150,
-		items: ["Chai Latte"],
-	},
-	"2 Latte": {
-		price: 150,
-		items: ["Chai Latte"],
-	},
-	"10 Latte": {
-		price: 1500,
-		items: ["Chai Latte"],
-	},
-	"10 Latte": {
-		price: 1500,
-		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte"],
+		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte",],
 	},
 	"20 Latte": {
 		price: 2500,
@@ -124,13 +116,9 @@ const Menu = {
 		price: 3500,
 		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte"],
 	},
-	"40 Latte": {
+	"60 Latte": {
 		price: 4500,
-		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte"],
-	},
-	"50 Latte": {
-		price: 5500,
-		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte","Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte"],
+		items: ["Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte", "Chai Latte"],
 	},
 	"100 Latte": {
 		price: 9000,
