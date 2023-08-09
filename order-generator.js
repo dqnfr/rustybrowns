@@ -26,7 +26,7 @@ const Menu = {
 	"Queens Choice": {
 		max: 5,
 		price: 1000,
-		items: ["Mixed Rings", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea",]
+		items: ["Mixed Rings", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Tommy Tea", "Ginerale",]
 	},
 	// Individual Items:
 	"Individual Items:": {
